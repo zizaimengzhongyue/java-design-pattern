@@ -11,7 +11,7 @@ public class Main {
         System.out.println(p.selfIntroduction());
         System.out.println(p.question());
 
-        
+
         i = Factory.getInstance("sales");
 
         p = i.getInterviewer();
